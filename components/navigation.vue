@@ -37,6 +37,8 @@ export default {
   }
 };
 </script>
+// Could be moved anywhere
+// Currently minimaly styled only few levels.
 <style scoped>
 ul {
   list-style-type: none;
