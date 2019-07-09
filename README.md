@@ -4,11 +4,8 @@
 <p>Recursive NavBar component can be used to create dynamic navigation bar in website</p>
 <p>How to use is visible in App.vue file </p>
 <p>After importing component to your vue file you need pass data like this:</p>
-<pre lang="no-highlight">
-<code>
-	<NavBar :list="navigationItems"></NavBar>
-</code>
-</pre>
+<p><NavBar :list="navigationItems"></NavBar></p>
+
 <p>Under you can see in which format pass json data to component with :list attribute</p>
 <pre lang="no-highlight">
 <code>
